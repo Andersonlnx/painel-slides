@@ -31,9 +31,7 @@ html, body {
 }
 
 #relogio-container {
-	/*position: absolute;
-	bottom: 0;*/
-	left: 15%;
+	left: 15%;  /* p/ ficar centralizada TODO: fazer um método melhor */
 	width: 320px;
 	height: 110px;
 	margin-left: auto;
@@ -66,17 +64,6 @@ html, body {
 	height: 80.1vh;
 	z-index: 1;
 	overflow: hidden;
-	padding-bottom: 0.5%;
-	/*background: red; */
-}
-
-
-#senha-container {
-	/*
-	background-color: #000;
-	opacity:0.6;
-	border-radius: 50px;
-	*/
 }
 
 /* 
